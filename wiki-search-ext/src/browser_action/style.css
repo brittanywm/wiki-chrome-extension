@@ -60,6 +60,13 @@ button#btn {
     color: black;
     text-decoration: none;
 }
+
+.no-result-found {
+    padding-top: 16px;
+    font-size: 14px;
+    height: 20px;
+    color: #ce3232;
+}
 .titleIncrease {
   font-size: 15px;
   font-style: italic;  
