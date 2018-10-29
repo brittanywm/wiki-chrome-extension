@@ -1,6 +1,6 @@
 # Wiki Search Chrome Extension
 
-Chrome Extension that allows for easily browsing wikipedia.
+Chrome Extension that allows for easily browsing wikipedia
 
 <kbd>
 <img src="http://zillberrycom.fatcow.com/wiki-chrome-extension/wiki-chrome-demo.gif" width="400" alt="Wiki Search Chrome Extension">
