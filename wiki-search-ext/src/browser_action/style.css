@@ -1,19 +1,19 @@
 *, *::after, *::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
 }
 
 body {
-    font-family: _ ;
-    font-weight: _ ;
-    line-height: _ ;
-    color: _ ;
-    font-family: 'Playfair Display', serif;
+  font-family: _ ;
+  font-weight: _ ;
+  line-height: _ ;
+  color: _ ;
+  font-family: 'Playfair Display', serif;
 }
 
 #wholeBody {
@@ -24,48 +24,48 @@ body {
 }
 
 #wholeBody input {
-    outline: 0;
-    outline-color: initial;
-    outline-style: initial;
-    outline-width: 0px;
-    color: black;
-    font-size: 12px;
-    padding-left: 8px;
-    padding-right: 8px;
-    height: 36px;
-    border-radius: 2px;
-    border: 1px solid #efefef;
-    background-color: #fafafa;
-    width: 76%;
-    margin-top: 10px;
-    margin-left: 12%;
-    margin-right: 12%;
+  outline: 0;
+  outline-color: initial;
+  outline-style: initial;
+  outline-width: 0px;
+  color: black;
+  font-size: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+  height: 36px;
+  border-radius: 2px;
+  border: 1px solid #efefef;
+  background-color: #fafafa;
+  width: 76%;
+  margin-top: 10px;
+  margin-left: 12%;
+  margin-right: 12%;
 }
 
 button#btn {
-    margin-top: 12px;
-    width: 100px;
-    height: 26px;
-    border-radius: 4px;
-    line-height: 26px;
-    font-size: 13px;
-    background-color: #797878;
-    color: white;
-    font-weight: bold;
-    border: none;
+  margin-top: 12px;
+  width: 100px;
+  height: 26px;
+  border-radius: 4px;
+  line-height: 26px;
+  font-size: 13px;
+  background-color: #797878;
+  color: white;
+  font-weight: bold;
+  border: none;
 }
 
 .inner a:link, .inner a:visited, .inner a:hover,  .inner a:active {
-    font-size: 13px;
-    color: black;
-    text-decoration: none;
+  font-size: 13px;
+  color: black;
+  text-decoration: none;
 }
 
 .no-result-found {
-    padding-top: 16px;
-    font-size: 14px;
-    height: 20px;
-    color: #ce3232;
+  padding-top: 16px;
+  font-size: 14px;
+  height: 20px;
+  color: #ce3232;
 }
 .titleIncrease {
   font-size: 15px;
